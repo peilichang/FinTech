@@ -6,24 +6,23 @@
 > * Name : 張培莉 Peili Chang
 > * Major : Soochow University Big Data Management
 > * Student ID : 07170142
+
+### Homework
+
 #### week1
 
----
 
 #### Week 2
 228放假
 
----
 
 #### Week3
-1. [HW1](https://github.com/peilichang/FinTech/blob/master/HW1/cloudComputing.md)  - What do you think of cloud computing?
+1. [HW1](https://github.com/peilichang/FinTech/blob/master/HW1/cloudComputing.md)  - What do I think of cloud computing?
 
---- 
 
 #### Week4
 
 
----
 
 #### Week5
 

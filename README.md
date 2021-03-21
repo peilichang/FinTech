@@ -13,11 +13,11 @@
 
 
 #### Week 2
-228放假
+> 228放假
 
 
 #### Week3
-1. [HW1](https://github.com/peilichang/FinTech/blob/master/HW1/cloudComputing.md)  - What do I think of cloud computing?
+> * [HW1](https://github.com/peilichang/FinTech/blob/master/HW1/cloudComputing.md)  - What do I think of cloud computing?
 
 
 #### Week4

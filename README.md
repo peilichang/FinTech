@@ -6,6 +6,9 @@
 > * Name : 張培莉 Peili Chang
 > * Major : Soochow University Big Data Management
 > * Student ID : 07170142
+> * Gmail : s2307760@gmail.com
+
+---
 
 ### Homework
 

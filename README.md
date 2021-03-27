@@ -24,10 +24,12 @@
 
 
 #### Week4
+> * [HW2](https://www.youtube.com/watch?v=6kEHmKiX1Bo)  - Build a Website using Amazon EC2 with LAMP!
 
 
 
 #### Week5
+> * [HW3](https://www.youtube.com/watch?v=2RwWuBKmLPo)  - Build a Website using Amazon S3 and AWS Amplify!
 
 ---
 

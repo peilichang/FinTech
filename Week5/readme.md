@@ -1,6 +1,12 @@
 
 # AWS IAM & S3
 
+
+## 課堂資源
+> * [課堂PPT](http://isee.scu.edu.tw/mod/url/view.php?id=706975)
+> * [課堂錄影](http://isee.scu.edu.tw/mod/url/view.php?id=708126)
+
+        
 ## 課堂筆記
 ### Identity and Access Management(IAM)
 用於服務跟服務溝通時，可建立和管理AWS使用者、群組，將各種服務串起來時，透過IAM設定使用者能取用的data。
@@ -56,9 +62,3 @@ IAM 分為兩種Policy，底下皆有**Statement**能針對以下幾個指定做
         3. AWS IAM - 內部訪問
 
         通過 Bucket 權限後再去確認 Object 訪問權限
-
-
-
-## 課堂資源
-> * [課堂PPT](http://isee.scu.edu.tw/mod/url/view.php?id=706975)
-> * [課堂錄影](http://isee.scu.edu.tw/mod/url/view.php?id=708126)

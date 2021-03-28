@@ -29,8 +29,8 @@
 
 
 #### Week5
-> * [HW3](https://www.youtube.com/watch?v=2RwWuBKmLPo)  - Build a Website using Amazon S3 and AWS Amplify!
 > * [Note](https://github.com/peilichang/FinTech/blob/master/Week5/readme.md)  - AWS IAM & S3
+> * [HW3](https://www.youtube.com/watch?v=2RwWuBKmLPo)  - Build a Website using Amazon S3 and AWS Amplify!
 
 ---
 

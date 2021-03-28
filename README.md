@@ -12,23 +12,23 @@
 
 ### Progress
 
-#### Week1
+#### Week 1
 
 
 #### Week 2
 > * 228放假
 
 
-#### Week3
-> * [HW1](https://github.com/peilichang/FinTech/blob/master/HW1/cloudComputing.md)  - What do I think of cloud computing?
+#### Week 3
+> * [HW1](https://github.com/peilichang/FinTech/blob/master/Week3/HW1.md)  - What do I think of cloud computing?
 
 
-#### Week4
+#### Week 4
 > * [HW2](https://www.youtube.com/watch?v=6kEHmKiX1Bo)  - Build a Website using Amazon EC2 with LAMP!
 
 
 
-#### Week5
+#### Week 5
 > * [Note](https://github.com/peilichang/FinTech/blob/master/Week5/readme.md)  - AWS IAM & S3
 > * [HW3](https://www.youtube.com/watch?v=2RwWuBKmLPo)  - Build a Website using Amazon S3 and AWS Amplify!
 

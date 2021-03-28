@@ -7,9 +7,9 @@
 
 IAM 分為兩種Policy，底下皆有**Statement**能針對以下幾個指定做設定：
 
-1. Effect - 對動作允許或不允許
-2. Action - 允許後對資源的操作行為（新增、修改、刪除...等）
-3. Resource - AWS資源
+      1. Effect - 對動作允許或不允許
+      2. Action - 允許後對資源的操作行為（新增、修改、刪除...等）
+      3. Resource - AWS資源
       
 - **Identity-based Policy** 以**使用者**為角度出發，分為
 
@@ -57,7 +57,7 @@ IAM 分為兩種Policy，底下皆有**Statement**能針對以下幾個指定做
 
         通過 Bucket 權限後再去確認 Object 訪問權限
 
----
+
 
 ## 課堂資源
 > * [課堂PPT](http://isee.scu.edu.tw/mod/url/view.php?id=706975)

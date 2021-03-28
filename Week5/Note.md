@@ -7,9 +7,9 @@
 
 IAM 分為兩種Policy，底下皆有**Statement**能針對以下幾個指定做設定：
 
-    1. Effect - 對動作允許或不允許
-    2. Action - 允許後對資源的操作行為（新增、修改、刪除...等）
-    3. Resource - AWS資源
+1. Effect - 對動作允許或不允許
+2. Action - 允許後對資源的操作行為（新增、修改、刪除...等）
+3. Resource - AWS資源
       
 - **Identity-based Policy** 以**使用者**為角度出發，分為
 
@@ -17,14 +17,14 @@ IAM 分為兩種Policy，底下皆有**Statement**能針對以下幾個指定做
         2. Group - 類似公司部門的群體，一個Group有多個Users
         3. Role - 非人，為服務跟服務之間的橋樑，賦予權限的動作
 
-以使用者為基準，設定他們使用資源的權限
+        以使用者為基準，設定他們使用資源的權限
 
 - **Resource-based Policy** 以**資源**為角度出發
 
         1. Statement中多了Principle - 授權給誰
         2. Ex . S3中的資源只能做刪除、修改
 
-以資源為基準，設定這份資源只能被**所有使用者**做什麼操作
+        以資源為基準，設定這份資源只能被**所有使用者**做什麼操作
 
 ---
 
@@ -49,13 +49,13 @@ IAM 分為兩種Policy，底下皆有**Statement**能針對以下幾個指定做
         2. Explicit deny -  Statement 中的 Effect 顯示為 "Deny"
         3. Explicit Allow - Statement 中的 Effect 顯示為 "Allow"
 
-- **確認是否有訪問權限的三大關卡** 通過 Bucket 權限後再去確認 Object 訪問權限
+- **確認是否有訪問權限的三大關卡** 
 
         1. S3 Access Control List(ACL)
         2. S3 Bucket Policy - 外部訪問
         3. AWS IAM - 內部訪問
 
-
+        通過 Bucket 權限後再去確認 Object 訪問權限
 
 ---
 

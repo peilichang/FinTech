@@ -11,18 +11,18 @@ IAM 分為兩種Policy，底下皆有**Statement**能針對以下幾個指定做
     2. Action - 允許後對資源的操作行為（新增、修改、刪除...等）
     3. Resource - AWS資源
       
-#### Identity-based Policy
-以使用者為角度出發，分為
+- Identity-based Policy
 
-    1. User - root account底下的多個users
-    2. Group - 類似公司部門的群體，一個Group有多個Users
-    3. Role - 非人，為服務跟服務之間的橋樑，賦予權限的動作
+以**使用者**為角度出發，分為
+       
+      1. User - root account底下的多個users
+      2. Group - 類似公司部門的群體，一個Group有多個Users
+      3. Role - 非人，為服務跟服務之間的橋樑，賦予權限的動作
 
 以使用者為基準，設定他們使用資源的權限
 
-**Resource-based Policy**
-
-以資源為角度出發
+- **Resource-based Policy**
+以**資源**為角度出發
 
     1. Statement中多了Principle - 授權給誰
     2. Ex . S3中的資源只能做刪除、修改

@@ -2,7 +2,7 @@
 > * Course : 雲端運算服務
 > * Professor : 蔡芸琤 pecutsai@gm.scu.edu.tw
 
-### My Information
+## My Information
 > * Name : 張培莉 Peili Chang
 > * Major : Soochow University Big Data Management
 > * Student ID : 07170142
@@ -10,27 +10,31 @@
 
 ---
 
-### Progress
-
+## Weekly Progress
+    每週皆有 Note & HW ，課程PPT及課程錄影網址皆存放在Note中的課程資源
 #### Week 1
+> * [Note](https://github.com/peilichang/FinTech/tree/master/Week1)  - 課程說明
 
 
 #### Week 2
 > * 228放假
+> * [Note](https://github.com/peilichang/FinTech/tree/master/Week2)  - 評分標準
 
 
 #### Week 3
+> * [Note](https://github.com/peilichang/FinTech/tree/master/Week3)  - 雲端服務基本概念介紹
 > * [HW1](https://github.com/peilichang/FinTech/blob/master/Week3/HW1.md)  - What do I think of cloud computing?
 
 
 #### Week 4
+> * [Note](https://github.com/peilichang/FinTech/tree/master/Week4)  - AWS LAMP
 > * [HW2](https://www.youtube.com/watch?v=6kEHmKiX1Bo)  - Build a Website using Amazon EC2 with LAMP!
-
 
 
 #### Week 5
 > * [Note](https://github.com/peilichang/FinTech/blob/master/Week5/readme.md)  - AWS IAM & S3
 > * [HW3](https://www.youtube.com/watch?v=2RwWuBKmLPo)  - Build a Website using Amazon S3 and AWS Amplify!
+
 
 ---
 

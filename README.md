@@ -36,6 +36,25 @@
 > * [HW3](https://www.youtube.com/watch?v=2RwWuBKmLPo)  - Build a Website using Amazon S3 and AWS Amplify!
 
 
+#### Week 6
+> * [Note](https://github.com/peilichang/FinTech/blob/master/Week6/readme.md)  - AWS IAM & S3
+> * [HW4]()  - Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda!
+
+
+### Week 7
+> * 學術交流週放假
+
+
+#### Week 8
+> * [Note](https://github.com/peilichang/FinTech/blob/master/Week6/readme.md)  - AWS IAM & S3
+> * [HW5]()  - 
+
+
+#### Week 9
+> * [Note](https://github.com/peilichang/FinTech/blob/master/Week7/readme.md)  - AWS IAM & S3
+> * [HW6]()  - Create a Docker Container or Build your own Project Services
+
+
 ---
 
 ### Project Description

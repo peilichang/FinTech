@@ -37,7 +37,7 @@
 
 
 #### Week 6
-> * [Note](https://github.com/peilichang/FinTech/blob/master/Week6/readme.md)  - Amazon API Gateway and AWS Lambda
+> * [Note](https://github.com/peilichang/FinTech/blob/master/Week6/README.md)  - Amazon API Gateway and AWS Lambda
 > * [HW4]()  - Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda!
 
 
@@ -46,12 +46,12 @@
 
 
 #### Week 8
-> * [Note](https://github.com/peilichang/FinTech/blob/master/Week8/readme.md)  - AWS RDS
+> * [Note](https://github.com/peilichang/FinTech/blob/master/Week8/README.md)  - AWS RDS
 > * [HW5]()  - 
 
 
 #### Week 9
-> * [Note](https://github.com/peilichang/FinTech/blob/master/Week9/readme.md)  - Docker
+> * [Note](https://github.com/peilichang/FinTech/blob/master/Week9/README.md)  - Docker
 > * [HW6]()  - Create a Docker Container or Build your own Project Services
 
 

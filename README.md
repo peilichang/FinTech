@@ -38,7 +38,7 @@
 
 #### Week 6
 > * [Note](https://github.com/peilichang/FinTech/blob/master/Week6/README.md)  - Amazon API Gateway and AWS Lambda
-> * [HW4]()  - Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda!
+> * [HW4](https://studio.youtube.com/video/4wvYFSO9gtQ/edit)  - Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda!
 
 
 ### Week 7

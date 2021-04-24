@@ -8,6 +8,7 @@
 
         
 ## 課堂筆記
+> * [作業Notion](https://www.notion.so/HW3-Build-a-Website-using-Amazon-S3-Versioning-and-AWS-Amplify-50db615d555b436d8ed5c93c702195ec)
 ### Identity and Access Management(IAM)
 用於服務跟服務溝通時，可建立和管理AWS使用者、群組，將各種服務串起來時，透過IAM設定使用者能取用的data。
 

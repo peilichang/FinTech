@@ -8,4 +8,4 @@
 
         
 ## 課堂筆記
-> * [](https://www.notion.so/HW4-Build-a-Telegram-Chatbot-using-Amazon-API-Gateway-and-AWS-Lambda-a245dcde8d14473a86d63c7dc00549d1)
+> * [作業Notion](https://www.notion.so/HW4-Build-a-Telegram-Chatbot-using-Amazon-API-Gateway-and-AWS-Lambda-a245dcde8d14473a86d63c7dc00549d1)

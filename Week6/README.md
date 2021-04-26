@@ -38,7 +38,7 @@ API是指各種軟體組件之間一套明確定義的溝通方法
 
 個人或企業為了達到某種需求而去設計一段功能或程式，最後的output是一串連結
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c8fc85d-c18c-4077-87fd-6041aeb1d7d0/_2021-04-26_4.33.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c8fc85d-c18c-4077-87fd-6041aeb1d7d0/_2021-04-26_4.33.02.png)
+![image](https://github.com/peilichang/FinTech/blob/master/Week6/API.png)
 
 ### HTTP（HyperText Transfer Protocol）
 
@@ -48,7 +48,7 @@ HTTP 客戶端（用戶）通過網址向 HTTP 服務端（Web 伺服器）傳�
 
 - **HTTP的溝通方法**
 
-![image]()
+![image](https://github.com/peilichang/FinTech/blob/master/Week6/HTTP.png)
 
 ### API Gateway
 
@@ -93,7 +93,7 @@ API）及 WebSocket API
     - **Destination 目的地**
         最後的Action為Optional，可送回User端或是在雲端上進行
 
-    ![image]()
+    ![image](https://github.com/peilichang/FinTech/blob/master/Week6/Lambda.png)
 
 ---
 

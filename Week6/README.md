@@ -71,27 +71,26 @@ API）及 WebSocket API
 - 用於資料處理、即時串流處理、機器學
 習、後端
 - 為事件驅動的程式，需要有Event Source來觸發AWS Lambda中的Function
-    1. **Event Source 資料來源**
+1. **Event Source 資料來源**
         如何達到Trigger?
 
         - 數據的改變
-
-                Ex. 定義的欄位有變動觸發Function進行計算
+        Ex. 定義的欄位有變動觸發Function進行計算
 
         - 資源狀態的改變
-
-                Ex. 上傳的mp4檔要轉成mp3
+        Ex. 上傳的mp4檔要轉成mp3
 
         - 終端請求
-
-                Ex. API呼叫
+        Ex. API呼叫
         
-    2. **Function**
+2. **Function**
+
         - 寫的內容就是將Event Source的內容達到轉換目的的程式碼
         - 可支援的程式碼：Node.js / Python / Java / C# / Go / Ruby / Custom Runtime（自己部署環境）
         
-    3. **Destination 目的地**
-        最後的Action為Optional，可送回User端或是在雲端上進行
+3. **Destination 目的地**
+
+       最後的Action為Optional，可送回User端或是在雲端上進行
 
     ![image](https://github.com/peilichang/FinTech/blob/master/Week6/Lambda.png)
 

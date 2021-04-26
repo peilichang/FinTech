@@ -76,15 +76,15 @@ API）及 WebSocket API
 
         1. 數據的改變
 
-         Ex. 定義的欄位有變動觸發Function進行計算
+                Ex. 定義的欄位有變動觸發Function進行計算
 
         2. 資源狀態的改變
 
-         Ex. 上傳的mp4檔要轉成mp3
+                Ex. 上傳的mp4檔要轉成mp3
 
         3. 終端請求
 
-        Ex. API呼叫
+                Ex. API呼叫
         
     - **Function**
         - 寫的內容就是將Event Source的內容達到轉換目的的程式碼

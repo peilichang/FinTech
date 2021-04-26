@@ -107,4 +107,4 @@ Machine → Virtual Servers → Cloud & Containers → Serverless
 
 ### Function as a Service(FaaS)
 
-一般來說 A用戶呼叫function a時會得到一個結果，在FaaS上，A用戶呼叫時會建立一個instance專門服務A用戶，B用戶呼叫時也會新建一個，所以提供給兩個用戶的使用環境是不一樣的，使用的參數也不一樣，使用完則關機
+一般來說 A用戶呼叫function a時會得到一個結果，在FaaS上，A用戶呼叫時會建立一個instance專門服務A用戶，B用戶呼叫時也會新建一個，所以提供給兩個用戶的使用環境是不一樣的，使用的參數也不一樣，使用完則關機。

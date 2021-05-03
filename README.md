@@ -47,7 +47,7 @@
 
 #### Week 8
 > * [Note](https://github.com/peilichang/FinTech/blob/master/Week8/README.md)  - AWS RDS
-> * [HW5]()  - Create a Database using Amazon RDS or Amazon DynamoDB!
+> * [HW5](https://www.youtube.com/watch?v=_XyWLC7fhDc)  - Create a Database using Amazon RDS or Amazon DynamoDB!
 
 
 #### Week 9

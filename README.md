@@ -52,7 +52,7 @@
 
 #### Week 9
 > * [Note](https://github.com/peilichang/FinTech/blob/master/Week9/README.md)  - Docker
-> * [HW6](https://www.youtube.com/watch?v=sZD5BIhPbhM)  - Create a Docker Container or Build your own Project Services
+> * [HW6](https://www.youtube.com/watch?v=sZD5BIhPbhM)  - Create a Docker Container or Build your own Project Services!
 
 
 ---
